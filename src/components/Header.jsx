@@ -20,7 +20,7 @@ const Header = () => {
         <div>
           <h4 className="text-xl font-semibold">Taste</h4>
           <span className="text-[0.65rem] font-bold opacity-70">
-            AK Restaurant
+            JK Restaurant
           </span>
         </div>
         <div className="cursor-pointer flex items-center justify-center w-10 h-12 bg-black rounded-t-xl rounded-br-3xl relative">
