@@ -16,25 +16,25 @@ const NavIcon = () => {
         <div className="flex bg-black rounded-xl p-4">
           <div className="flex gap-5 rounded-full">
             <a
-              href="#"
+              href="#home"
               className="text-xl text-white inline-block bg-glass p-2 rounded-sm"
             >
               <AiFillHome />
             </a>
             <a
-              href="#"
+              href="#about"
               className="text-xl text-white inline-block bg-glass p-2 rounded-sm"
             >
               <MdExplore />
             </a>
             <a
-              href="#"
+              href="#recipe"
               className="text-xl text-white inline-block bg-glass p-2 rounded-sm"
             >
               <GiBowlOfRice />
             </a>
             <a
-              href="#"
+              href="#contact"
               className="text-xl text-white inline-block bg-glass p-2 rounded-sm"
             >
               <MdContactPage />
